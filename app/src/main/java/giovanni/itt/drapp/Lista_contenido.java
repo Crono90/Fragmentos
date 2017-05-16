@@ -69,6 +69,44 @@ public class Lista_contenido {
 				"Fuente: CCM salud, Luque, A. y Marnet."
 		));
 
+		//Bronquitis
+		aniadirEntrada(new Lista_entrada("19", R.drawable.im_bonquitis, "BRONQUITIS", "BRONQUITIS\n" +
+				"TIPOS\n" +
+				"Bronquitis Aguda, Infección del tracto respiratorio inferior, Resfriado de pecho\n" +
+
+				"DEFINICION \n" +
+				"La bronquitis aguda es una infección respiratoria a corto plazo a la que se suele denominar “resfriado de pecho” \n" +
+				"Los bronquios se extienden por la tráquea, toman aire del exterior y lo envían a los pulmones. \n" +
+				"Cuando hay bronquitis, los bronquios se inflaman y producen más mucosidad.\n" +
+
+				"CAUSAS\n" +
+				"En la mayoría de los casos, la bronquitis aguda surge a causa de una infección vírica.\n" +
+				"En ocasiones, puede surgir por una infección bacteriana.\n" +
+				"SÍNTOMAS\n" +
+				"La bronquitis aguda puede causar lo siguiente:\n" +
+				"•\tTos, con o sin esputo.\n" +
+				"•\tAumento de la producción de esputo.\n" +
+				"•\tDificultad para respirar.\n" +
+				"•\tTSibilancia.\n" +
+				"•\tTambién puede haber otros síntomas de gripe o de resfriado, como fiebre baja, dolor de garganta y congestión nasa.\n" +
+
+				"FACTORES DE RIESGO\n" +
+				"Los factores que pueden aumentar el riesgo de contraer bronquitis aguda incluyen lo siguiente:\n" +
+				"•\tTener unresfriadoogripe.\n" +
+				"•\tEstar en contacto con personas que tengan una infección respiratoria vírica o bacteriana.\n" +
+				"•\tSer fumador pasivo.\n" +
+				"•\tTabaquismo.\n" +
+				"•\tAsma.\n" +
+				"•\tExposición a inhalantes respiratorios en el trabajo.\n" +
+
+
+				"PREVENCIÓN\n" +
+
+				"Para ayudar a reducir las probabilidades de contraer bronquitis aguda, tome las siguientes medidas:\n" +
+				"•\tMantenga una buena higiene de las manos, en especial si está en contacto con alguien que está enfermo.\n" +
+				"•\tEvite el contacto con personas que padezcan infecciones respiratorias víricas o bacterianas.\n" +
+				"•\tSi fuma, hable con su médico sobre cómo puede dejar de hacerlo. El humo disminuye la resistencia de los pulmones a las infecciones y extiende el tiempo de recuperación.\n"));
+
 
         //Brucelosis
 		aniadirEntrada(new Lista_entrada("1", R.drawable.brucelosi, "BRUCELOSIS ", "INFORMACION\n" +
@@ -99,6 +137,49 @@ public class Lista_contenido {
 				"Previene, diagnostica y trata enfermedades.\n" +
 				" \n" +
         "Fuente: MedlinePlus, Vega C. y colaboradores. "));
+
+		//CASPA//
+
+		aniadirEntrada(new Lista_entrada("20", R.drawable.im_caspa, "CASPA", "CASPA\n" +
+				"TIPOS\n" +
+				"Caspa o Eccema Seborréico.\n" +
+
+				"DEFINICIÓN \n" +
+				"La dermatitis seborreica es una afección crónica de la piel que causa un sarpullido escamoso con comezón.” \n" +
+				"Se caracteriza por la presencia leve de escamas blancas o un sarpullido escamoso rojizo o grasoso y amarillento. \n" +
+				"Las zonas comúnmente afectadas son:\n+" +
+				"•\t el cuero cabelludo\n" +
+				"•\tla parte posterior y exterior de las orejas, las cejas\n" +
+
+				"CAUSAS\n" +
+				"Se desconoce la causa exacta de la dermatitis seborreica, aunque una levadura común de la piel, llamada Malassezia, puede tener una función determinante en algunos casos. \n" +
+				"La dermatitis seborréica puede afectar a una familia completa y a las personas con piel o pelo grasosos. " +
+				"También puede estar relacionada con otras condiciones crónicas, como las enfermedades de los sistemas inmune y nerviosos.\n" +
+
+				"SÍNTOMAS\n" +
+				"Los síntomas de la dermatitis seborréica pueden ser moderados o severos. \n" +
+				"Éstos incluyen:\n" +
+				"•\tEscamas secas o grasosas en el cuero cabelludo\n" +
+				"•\tComezón en el cuero cabelludo\n" +
+				"•\tSarpullido escamoso que produce comezón y con enrojecimiento cutáneo\n" +
+				"•\tPiel escamosa, engrosada\n" +
+				"•\tEnrojecimiento cutáneo sobre la frente y a los lados de la nariz\n" +
+				"En los bebés menores de un mes, la dermatitis seborréica puede ocasionar un cuero cabelludo con costras, grueso y amarillento conocido como \"costra de cuna\"\n" +
+
+				"FACTORES DE RIESGO\n" +
+				"Los factores que pueden aumentar el riesgo de contraer caspa sus factores de riesgo son:\n" +
+				"•\tCabello o piel grasosos\n" +
+				"•\tFamiliares que tengan dermatitis seborréica\n" +
+				"•\tInfección por VIH\n" +
+				"•\tAfecciones neurológicas, como elmal de Parkinsono, con menor frecuencia,apoplejías:\n" +
+				"•\tMala higiene.\n" +
+
+				"PREVENCIÓN\n" +
+
+				"No existe una guía para prevenir la dermatitis seborréica debido a que la causa es desconocida." +
+				"Si usted tiene dermatitis seborréica, el seguir las pautas de tratamiento pueden ayudarle a prevenir su recurrencia.\n"));
+
+
 
             //Cirosis
 
@@ -149,6 +230,58 @@ public class Lista_contenido {
                 "•\tEspecialista en medicina de urgencias \n" +
                 "Trata los pacientes de urgencias.\n" +
                 "\n" + "Fuente: NIH y MedlinePlus"));
+
+
+
+		//DEPRESION//
+
+		aniadirEntrada(new Lista_entrada("21", R.drawable.im_depresion, "DEPRESIÓN", "DEPRESIÓN\n" +
+				"TIPOS\n" +
+				"Trastorno afectivo depresivo mayor, trastorno unipolar, trastorno unipolar del estado de ánimo.\n" +
+
+				"DEFINICIÓN \n" +
+				"La depresión es una enfermedad mental marcada por sentimientos de tristeza profunda y ausencia de interés en las actividades. La depresión no es lo mismo que la tristeza.” \n" +
+				"La depresión no es lo mismo que la tristeza.\n" +
+				"Es un estado de ánimo persistentemente depresivo que afecta la capacidad de funcionar y de apreciar los aspectos de la vida.\n+" +
+				"Puede provocar una amplia cantidad de síntomas, tanto físicos como emocionales.\n" +
+				"Puede durar semanas, meses o años.\n" +
+				"Las personas con depresión raramente se recuperan sin tratamiento.\n" +
+
+				"CAUSAS\n" +
+				"Si bien la causa exacta se desconoce, los factores que pueden cumplir una función en la depresión incluyen: \n" +
+				"Tener antecedentes familiares de depresión (vínculo genético).\n" +
+				"Tener determinado tipo de química cerebral.\n" +
+				"Experimentar sucesos estresantes o traumáticos (p. ej., muerte en la familia, divorcio, pérdida del trabajo).\n" +
+
+				"SÍNTOMAS\n" +
+				"La depresión puede variar de una persona a otra. Algunas personas tienen sólo unos pocos síntomas, mientras que otras tienen muchos.Los síntomas pueden cambiar con el tiempo e incluyen:\n" +
+				"•\tSentimientos constantes de tristeza, ansiedad o vacío\n" +
+				"•\tDesesperanza\n" +
+				"•\tSentimientos de culpa, inutilidad e incapacidad\n" +
+				"•\tFalta de interés en actividades y pasatiempos\n" +
+				"•\tFalta de interés en el sexo\n" +
+				"•\tCansancio\n" +
+				"•\tProblemas para concentrarse, recordar o tomar decisiones\n" +
+
+				"FACTORES DE RIESGO\n" +
+				"Hay una variedad de factores que pueden aumentar el riesgo de depresión. Los ejemplos incluyen:\n" +
+				"•\tSexo: femenino\n" +
+				"•\tEpisodios anteriores de depresión\n" +
+				"•\tCambios hormonales\n" +
+				"•\tCondiciones crónicas (p. ej.,hipotiroidismo,diabetes tipo 2, enfermedad cardíaca, cáncer, dolor crónico,accidente cerebrovascular,enfermedad de Parkinson)\n" +
+
+
+				"PREVENCIÓN\n" +
+
+				"Las estrategias para reducir las posibilidades de volverse depresivo son:\n" +
+				"•\tSea consciente de sus riesgos personales .\n" +
+				"•\tSométase a una evaluación psiquiátrica y acuda a psicoterapia si lo requiere\n" +
+				"•\tReciba apoyo social\n" +
+				"•\tAprenda técnicas para el control del estrés\n" +
+				"•\tHacer ejercicio con regularidad\n" +
+				"•\tNo abuse del alcohol ni de drogas\n" +
+				"•\tDuerma, descanse y diviértase adecuadamente\n" +
+				"•\tConsuma alimentos saludables, incluidasfrutas, verdurasygranos enteros.\n"));
 
 			//Diabetis Tipo 2
 
@@ -335,7 +468,7 @@ public class Lista_contenido {
 
 		//Gripe
 
-		aniadirEntrada(new Lista_entrada("7", R.drawable.gripe, "Gripe", "INFORMACION\n" +
+		aniadirEntrada(new Lista_entrada("7", R.drawable.gripe, "GRIPE", "INFORMACION\n" +
 				"La gripe es una infección respiratoria causada por cierto número de virus. El virus se transmite por el aire e ingresa al organismo a través de la nariz o la boca.\n"
 		+ "\n" + " CAUSAS\n" +
 				"El virus de la gripe inicialmente se une a las células de la mucosa de las vías respiratorias superiores (células secretoras de mucosidad, células ciliadas y células epiteliales) y las destruye, eliminando así el primer sistema de defensa del sistema respiratorio, y posteriormente puede alcanzar las vías respiratorias inferiores causando una descamación grave del epitelio bronquial o alveolar.\n"
@@ -365,6 +498,63 @@ public class Lista_contenido {
 				"•\tPediatra \n" +
 				"Brinda atención médica a bebes, niños y adolescentes. \n" +
 				"\n" + "\n" + "Fuente: MedlinePlus"));
+
+
+		//HEPATITIS B//
+
+		aniadirEntrada(new Lista_entrada("22", R.drawable.im_hepatitis , "HEPATITIS B", "HEPATITIS B\n" +
+				"TIPOS\n"+
+				"Hep B \n"+
+
+				"DEFINICIÓN \n" +
+				"Es una enfermedad del hígado provocada por el virus llamada hepatitis B.\n" +
+				"La mayoría de las infecciones por hepatitis B se resuelven en un lapso de 1 a 2 meses sin tratamiento.\n" +
+				"Cuando la infección dura más de seis meses, puede tornarse en una hepatitis B crónica, la cual desemboca en:\n" +
+				"•\tInflamación crónica del hígado\n" +
+				"•\tCirrosis(cicatrización del hígado)\n" +
+				"•\tCáncer hepático\n" +
+				"•\tInsuficiencia hepática\n" +
+				"•\tMuerte\n"+
+
+				"CAUSAS\n" +
+				"Este virus generalmente se contagia por el contacto con los líquidos corporales de una persona infectada. \n" +
+				"Los fluidos incluyen:\n" +
+				"•\tSangre\n" +
+				"•\tEl semen\n" +
+				"•\tLos flujos vaginales\n" +
+				"•\tLa saliva\n" +
+
+				"SÍNTOMAS\n"+
+				"Pueden aparecer alrededor de 25 a 180 días después del contacto con el virus.\n " +
+				"Los síntomas más comunes son:\n" +
+				"•\tOjos y piel de color amarillento (ictericia)\n" +
+				"•\tFatiga que tarda durante semanas o incluso meses\n" +
+				"•\tDolor abdominal en el área del hígado (lado derecho superior)\n" +
+				"•\tPérdida de apetito\n" +
+				"•\tNáuseas\n" +
+
+
+				"FACTORES DE RIESGO\n"+
+				"Las siguientes situaciones pueden incrementar sus riesgos de contraer la hepatitis B:\n" +
+				"•\tTener relaciones sexuales con alguien que esté infectado con hepatitis B o quien sea portador del virus\n" +
+				"•\tInyectarse drogas ilícitas, especialmente si se comparten las agujas\n" +
+				"•\tTener más de una pareja sexual\n" +
+				"•\tHombres que tienen relaciones sexuales con otros hombres\n" +
+				"•\tVivir en la misma casa con alguien que está infectado con la hepatitis B\n" +
+
+
+				"PREVENCIÓN\n"+
+				"Vacuna contra la hepatitis B\n" +
+				"Existe una vacunapara prevenir la hepatitis B. Esta vacuna, una serie de tres inyecciones, se administra como rutina a los recién nacidos. \n" +
+				"Los niños y adolescentes que no se vacunaron cuando eran bebés todavía pueden recibir las inyecciones.\n" +
+				"También se recomienda que los adultos en alto riesgo (p. ej., tener varias parejas sexuales, inyectarse drogas ilícitas,\n " +
+				"trabajar en el campo de la asistencia sanitaria o ser diabético) reciban la vacuna.\n" +
+				"Otras estrategias de prevención:\n" +
+				"•\tUso del condon u absténgase de mantener relaciones sexuales.\n" +
+				"•\tLimite la cantidad de personas con las que mantiene relaciones sexuales.\n" +
+				"•\tNo utilice drogas inyectadas. Si usa drogas inyectables, busque un tratamiento para que lo ayude adejar de hacerlo. Nunca comparta agujas o jeringas.\n" +
+				"•\tAretes\n"));
+
 
 		//HIPERTENSION ARTERIAL
 		aniadirEntrada(new Lista_entrada("8", R.drawable.hipertension, "HIPERTENSION ARTERIAL", "INFORMACION\n" +
@@ -451,6 +641,157 @@ public class Lista_contenido {
 				"Trata los trastornos mentales principalmente con medicamentos.\n" + "\n"+
 		"Fuente: MedlinePlus"));
 
+        //LEUCEMIA
+        aniadirEntrada(new Lista_entrada("17", R.drawable.leucemia_1, "LEUCEMIA", "INFORMACION\n" +
+                "La leucemia es un tipo de cáncer de la sangre que comienza en la médula ósea, el tejido blando que se encuentra en el centro de los huesos, donde se forman las células sanguíneas.\n"+ "\n" +
+        "CAUSAS\n" +
+                "En la mayor parte de los casos de leucemia, no se puede establecer una causa identificable. Sin embargo, está demostrado que no es un padecimiento hereditario o contagioso.\n" +
+                "Existen, sin embargo, una serie de factores de riesgo:\n" +
+                "•\tHistoria previa de tratamiento para otras enfermedades cancerosas: Haber recibido quimioterapia o radioterapia puede provocar una alteración o daño celular que derive en lo que se conoce como una leucemia secundaria.\n" +
+                "•\tPadecer un trastorno genético: Enfermedades como el síndrome de Down incrementan la posibilidad de una persona de padecer leucemia.\n" +
+                "•\tExposisión a agentes tóxicos: El contacto con determinados agentes tóxicos, ya que sean ambientales, profesionales o asociados a hábitos como el tabaquismo, aumentan el riesgo de leucemia.\n" +
+                "•\tHistoria familiar: En casos minoritarios, tener antecedentes familiares de leucemia puede ser un factor de riesgo.\n" + "\n" +
+        "SINTOMAS\n" +
+                "•\tÁreas de dolor: articulaciones o huesos\n" +
+                "•\tTodo el cuerpo: debilidad, fatiga, fiebre, mareos o pérdida de apetito\n" +
+                "•\tTambién comunes: adenopatía, dificultad para respirar, hemorragia, hemorragia nasal, infecciones frecuentes, moretones frecuentes, palidez, petequia, pérdida de peso involuntaria o úlcera bucal\n" +
+                "Fuente: MedlinePlus\n" +
+                "1.\tMALARIA\n" +
+                "SINTOMAS\n"+ "\n" +
+        "TRATAMIENTO\n" +
+                "Medicamentos\n" +
+                "•\tQuimioterapia\n" +
+                "Mata a las células que crecen o se multiplican demasiado rápido.\n" +
+                "•\tTransfusión de sangre\n" +
+                "Componentes de la sangre que se incorporan para suplir deficiencias en el torrente sanguíneo.\n" +
+                "Procedimiento médico\n" +
+                "•\tTrasplante de médula ósea\n" +
+                "Trasplante de células madre para restaurar el sistema inmunológico de una persona. Las células trasplantadas pueden provenir de un donante o pueden ser de la misma persona.\n" +
+                "Especialistas\n" +
+                "•\tOncólogo\n" +
+                "Es especialista en el cáncer.\n" +
+                "•\tHematólogo y oncólogo pediátrico\n" +
+                "Es especialista en los trastornos de la sangre y el cáncer en los niños.\n" +
+                "•\tHematólogo\n" +
+                "Es especialista en el diagnóstico y el tratamiento de las enfermedades de la sangre.\n"+ "\n"+
+        "Fuente: MedlinePlus"));
+
+        //20.	MALARIA
+		aniadirEntrada(new Lista_entrada("18", R.drawable.malaria_1, " MALARIA", "CAUSAS\n" +
+				"es causada por un parásito que se transmite a los humanos a través de la picadura de mosquitos anofeles infectados. Después de la infección, los parásitos (llamados esporozoítos) viajan a través del torrente sanguíneo hasta el hígado, donde maduran y producen otra forma, llamada merozoítos. Los parásitos ingresan en el torrente sanguíneo e infectan a los glóbulos rojos.\n" + "\n" +
+		"SINTOMAS\n" +
+				"Los síntomas incluyen:\n" +
+				"•\tAnemia\n" +
+				"•\tHeces con sangre\n" +
+				"•\tEscalofríos, fiebre y sudoración\n" +
+				"•\tComa\n" +
+				"•\tConvulsiones\n" +
+				"•\tDolor de cabeza\n" +
+				"•\tIctericia\n" +
+				"•\tDolor muscular\n" +
+				"•\tNáuseas y vómitos\n" + "\n" +
+		"TRATAMIENTO\n" +
+				"Medicamentos\n" +
+				"•\tAntiparasitarios\n" +
+				"Mata los parásitos.\n" +
+				"•\tAntibiótico\n" +
+				"Detiene el crecimiento de las bacterias o las elimina.\n" +
+				"Especialistas\n" +
+				"•\tInfectólogo\n" +
+				"Trata las infecciones, incluidas las de origen tropical.\n" +
+				"•\tEspecialista en medicina del viajero\n" +
+				"Es especialista en las cuestiones de salud relacionadas con los viajes internacionales.\n" +
+				"•\tMédico de atención primaria\n" +
+				"Previene, diagnostica y trata las enfermedades.\n" +
+				"•\tEspecialista en medicina de urgencias\n" +
+				"Trata a los pacientes en el servicio de urgencias.\n" + "\n"+
+		 "Fuente: MedlinePlus"));
+
+
+		//MIGRAÑA
+		aniadirEntrada(new Lista_entrada("7", R.drawable.im_migra_a , "MIGRAÑA", " MIGRAÑA\n" +
+				"TIPOS\n"+
+				"Dolor de cabeza \n"+
+
+				"DEFINICIÓN \n" +
+				"La migraña es una clase de dolor de cabeza recurrente que afecta los vasos sanguíneos, los nervios y la composición química del cerebro." +
+				"Antes de la migraña, se pueden experimentar distintas sensaciones, que pueden incluir cambios visuales o entumecimiento y hormigueo, llamadas auras. " +
+				"Existen dos tipos de migraña:\n" +
+				"•\tMigraña con aura (anteriormente llamada \"clásica”)\n" +
+				"•\tMigraña sin aura (anteriormente llamada \"común”)\n" +
+				"•\tLa migraña pueden afectar el rendimiento escolar del niño, las relaciones con los amigos y la familia, y otros factores en la vida del niño.\n " +
+
+				"CAUSAS\n" +
+				"Se desconoce la causa exacta. Entre las causas posibles se encuentran factores desencadenantes genéticos y ambientales." +
+				"Las migrañas pueden ser producidas por cambios en un nervio que actúa como una vía sensitiva importante." +
+				" Un desequilibrio en las sustancias químicas del cerebro, como la serotonina, también puede constituir un factor.\n" +
+
+				"SÍNTOMAS\n"+
+				"as migrañas ocurren en fases que pueden incluir:\n" +
+				"Advertencia\n" +
+				"\n" +
+				"Se puede sentir una advertencia antes de la migraña. En las horas o días antes del dolor de cabeza, los síntomas pueden incluir:\n" +
+				"•\tUn cambio en el estado de ánimo\n" +
+				"•\tUn cambio en el comportamiento\n" +
+				"•\tUn cambio en el nivel de actividad\n" +
+
+
+				"FACTORES DE RIESGO\n"+
+				"Los factores que aumentan la posibilidad de que su hijo padezca migrañas pueden incluir:\n" +
+				"•\tFactores desencadenantes ambientales (p. ej. luces destellantes, olores, ruidos fuertes, cambios del estado del tiempo)\n" +
+				"•\tSexo: más frecuente en los niños que en las niñas; después de la pubertad, las migrañas son más frecuentes en las niñas.\n" +
+				"•\tEdad: la edad promedio en que un niño puede sufrir una migraña es de siete años para los niños y de 10 años para las niñas. Una migraña también puede presentarse a edades más tempranas.\n" +
+				"•\tTener miembros de la familia con migrañas\n" +
+
+
+				"PREVENCIÓN\n"+
+				"Los métodos de prevención de las migrañas incluyen:\n" +
+				"•\tEvite las cosas que pueden provocar la migraña.\n" +
+				"•\tAdopte otros hábitos saludables.\n" +
+				"•\tEl médico puede considerar el uso de medicamentos (que incluyen antiepilépticos y antidepresivos) con el fin de prevenir las migrañas.\n"));
+
+//NEUROPATIA
+		aniadirEntrada(new Lista_entrada("24", R.drawable.im_neuropatia , "NEUROTOPÍA", " NEUROPATIA \n" +
+				"TIPOS\n"+
+				"Daño nervioso de la diabetes \n"+
+
+				"DEFINICIÓN \n" +
+				"a neuropatía diabética es un tipo de daño nervioso asociado con la diabetes. Afecta los nervios de los pies, las piernas y \n" +
+				"los ojos y los nervios que controlan funciones corporales como la digestión, la presión arterial y la frecuencia cardíaca.\n " +
+
+				"CAUSAS\n" +
+				"La neuropatía diabética probablemente se debe a una combinación de factores, que incluyen:\n" +
+				"Síndrome metabólico: condición marcada por aumentos de la presión arterial, el colesterol, la glucemia y el peso.\n" +
+				"El exceso de peso localizado en la región abdominal es motivo de especial preocupación.\n" +
+				"•\tDaño a los vasos sanguíneos\n" +
+				"•\tFactores autoinmunes\n" +
+				"•\tGenética\n" +
+
+				"SÍNTOMAS\n"+
+				"Los síntomas de neuropatía diabética pueden incluir:\n" +
+				"•\tSensación de adormecimiento, hormigueo o dolor en las extremidades\n" +
+				"•\tDebilidad en los brazos o las piernas\n" +
+				"•\tIndigestión\n" +
+				"•\tNáuseas o vómitos\n" +
+				"•\tDiarrea o estreñimiento\n" +
+				"•\tMareos\n" +
+
+				"FACTORES DE RIESGO\n"+
+				"Esta condición es más común entre los adultos mayores. Los factores que pueden aumentar el riesgo de tener una neuropatía diabética son los siguientes:\n" +
+				"•\tTener diabetes durante 25 años o más\n" +
+				"•\tTener diabetes tipo 2\n" +
+				"•\tPresión arterial elevada\n" +
+				"•\tObesidad\n" +
+				"•\tFalta de ejercicio\n" +
+				"•\tArteriopatía periférica\n" +
+				"•\tColesterol elevado:\n" +
+
+				"PREVENCIÓN\n"+
+				"La mejor manera de prevenir la neuropatía diabética es monitorear y controlar regularmente sus niveles de glucosa sanguínea. " +
+				"El médico puede enseñarle cada cuánto debe controlar los niveles y el significado de los resultados obtenidos.\n"));
+
+
+
 		// ORZUELO
 
 		aniadirEntrada(new Lista_entrada("10", R.drawable.orzuelo, "ORZUELO", "INFORMACION\n" +
@@ -517,6 +858,49 @@ public class Lista_contenido {
 				"•\tMédico de atención primaria\n" +
 				"Previene, diagnostica y trata las enfermedades.\n"+ "\n"+
 		"Fuente: MedlinePlus"));
+
+		//PANCREATITIS
+		aniadirEntrada(new Lista_entrada("25", R.drawable.im_pancreatitis , "PANCREATITI", " PANCREATITIS\n" +
+
+				"DEFINICIÓN \n" +
+				"a pancreatitis es una enfermedad en donde el páncreas se encuentra inflamado.\n" +
+				"El páncreas es un órgano largo, liso, con forma de pera, localizado por detrás del estómago. Produce enzimas digestivas y hormonas,\n " +
+				"incluyendo a la insulina. En la pancreatitis, las enzimas digestivas atacan al tejido que las produce.Pancreatitis aguda: " +
+				"•\tAparece de repente, con dolor intenso en la parte superior del abdomen. " +
+				"•\tSi no se trata, esta enfermedad puede ser grave y potencialmente mortal." +
+				"•\tPancreatitis crónica: trastorno progresivo que puede destruir el páncreas.\n " +
+
+				"CAUSAS\n" +
+				"Las causas incluyen:\n" +
+				"•\tAlcoholismo(la causa más común)\n" +
+				"•\tCálculos biliaresy otras obstrucciones de los conductos biliares\n" +
+				"•\tCirugía o trauma en el páncreas\n" +
+				"•\tAlgunos medicamentos\n" +
+
+				"SÍNTOMAS\n"+
+				"Los síntomas incluyen:\n" +
+				"Dolor severo en el centro del abdomen que:\n" +
+				"•\tAlgunas veces se extiende a la parte superior de la espalda\n" +
+				"•\tMuchas veces empeora al comer, caminar o acostarse boca arriba\n" +
+				"•\tEs menos severo en la pancreatitis crónica, con un dolor que puede ser tolerable por semanas.\n" +
+				"•\tNáuseas y vómitos\n" +
+				"•\tDiarrea\n" +
+				"•\tFiebre\n" +
+
+				"FACTORES DE RIESGO\n"+
+				"Un factor de riesgo es aquello que incrementa su probabilidad de contraer una enfermedad o condición.\n" +
+				"•\tAbuso del alcohol\n" +
+				"•\tAntecedentes familiares de pancreatitis\n" +
+				"•\tHistoria personal de pancreatitis aguda\n" +
+				"•\tMedicamentos incluyendo:\n" +
+				"•\tEstrógenos\n" +
+				"•\tSulfonamidas\n" +
+				"•\tTetraciclinas\n" +
+
+				"PREVENCIÓN\n"+
+				"La mejor manera de prevenir la pancreatitis es limitar el consumo de alcohol a hasta dos bebidas diarios, \n" +
+				"para los hombres, y hasta una por día para las mujeres. Si presenta hiperlipidemia, disminuya los alimentos grasosos \n" +
+				"y siga el tratamiento médico para disminuir sus lípidos.\n"));///
 
 		//QUISTES OVARICOS
 
@@ -603,6 +987,11 @@ public class Lista_contenido {
 				"Previene, diagnostica y trata las enfermedades.\n"+ "\n" +
 		"Fuente: MedlinePlus"));
 
+
+
+
+
+
 		//SIDA
 		aniadirEntrada(new Lista_entrada("14", R.drawable.sida, "SIDA", "INFORMACION\n" +
 				"El VIH ocasiona el SIDA y, además, interfiere con la capacidad del cuerpo de combatir infecciones.\n" + "\n" +
@@ -664,7 +1053,7 @@ public class Lista_contenido {
 
 		// 	URTICARIA
 
-		aniadirEntrada(new Lista_entrada("0", R.drawable.urticaria, "URTICARIA", "INFORMACION\n" +
+		aniadirEntrada(new Lista_entrada("16", R.drawable.urticaria, "URTICARIA", "INFORMACION\n" +
 				"Son ronchas rojizas, elevadas y a menudo pruriginosas que aparecen en la superficie de la piel. Usualmente son una reacción alérgica a algún alimento o medicamento.\n" +
 		"\n"+ "CAUSAS\n" +
 				"Cuando usted tiene una reacción alérgica a una sustancia, el cuerpo libera histamina y otros químicos dentro del torrente sanguíneo. Esto causa prurito, inflamación y otros síntomas. La urticaria es una reacción común. Las personas con otras reacciones alérgicas, como la fiebre de heno, a menudo presentan urticaria.\n" + "\n" +
@@ -694,6 +1083,42 @@ public class Lista_contenido {
 				"•\tEspecialista en medicina de urgencias\n" +
 				"Trata a los pacientes en el servicio de urgencias.\n" + "\n"+
 		"Fuente: MedlinePlus"));
+
+		//Varicela
+
+		aniadirEntrada(new Lista_entrada("16", R.drawable.varicela, "VARICELA", "INFORMACION\n" +
+				"Es una infección viral por la cual la persona presenta ampollas muy pruriginosas en todo el cuerpo.\n"+ "\n"+
+		"CAUSAS\n" +
+				"El virus que causa la varicela es el virus varicela zoster. Es un miembro de la familia del herpesvirus, que causa también la culebrilla en los adultos.\n" +
+				"La varicela se puede contagiar muy fácilmente a otras personas desde el día 1 al 2 antes de que se presenten las ampollas hasta que se formen las costras. Puede contagiarse de varicela:\n" +
+				"Por tocar los líquidos de una ampolla de varicela.\n" +
+				"Si alguien con varicela tose o estornuda cerca de usted.\n"+ "\n"+
+		"SINTOMAS\n" +
+				"La mayoría de los niños y adultos con varicela presentan los siguientes síntomas antes de que aparezca el sarpullido:\n" +
+				"•\tFiebre\n" +
+				"•\tDolor de cabeza\n" +
+				"•\tDolor de estómago\n"+ "\n" +
+		"TRATAMIENTO\n" +
+				"Medicamentos\n" +
+				"•\tAnalgésico\n" +
+				"Alivia el dolor.\n" +
+				"•\tAntiviral\n" +
+				"Reduce la capacidad de los virus para reproducirse.\n" +
+				"•\tAntihistamínico\n" +
+				"Reduce o detiene una reacción alérgica\n" +
+				"Cuidado personal\n" +
+				"•\tBaño de avena\n" +
+				"Mezcla de harina de avena y agua que calma la piel irritada.\n" +
+				"•\tEmoliente\n" +
+				"Hidrata y protege la piel frente al daño.\n" +
+				"Especialistas\n" +
+				"•\tPediatra\n" +
+				"Brinda atención médica a los bebés, niños y adolescentes.\n" +
+				"•\tMédico de atención primaria\n" +
+				"Previene, diagnostica y trata las enfermedades.\n" + "\n"+
+		"Fuente: MedlinePlus"));
+
+
 
 
 
