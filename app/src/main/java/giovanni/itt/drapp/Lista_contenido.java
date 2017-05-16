@@ -21,7 +21,46 @@ public class Lista_contenido {
 	 * Creamos est�ticamente las entradas
 	 */
 	static {
-		aniadirEntrada(new Lista_entrada("0", R.drawable.im_buho, "BUHO", "B�ho es el nombre com�n de aves de la familia Strigidae, del orden de las estrigiformes o aves rapaces nocturnas. Habitualmente designa especies que, a diferencia de las lechuzas, tienen plumas alzadas que parecen orejas."));
+		aniadirEntrada(new Lista_entrada("0", R.drawable.descarga, "Acne", "ACNE\n" +
+				"TRATAMIENTO\n" +
+				"Inducción de cremas, productos de limpieza, así como antibióticos y alimentación. \n" +
+				"Medicamentos\n" +
+				"•\tAntiinflamatorios \n" +
+				"Previene o contrarresta la hinchazón (inflamación) en las articulaciones y los tejidos.\n" +
+				"•\tAntibiótico\n" +
+				"Detiene el crecimiento de microorganismos en la piel que pueden causar una infección.\n" +
+				"•\tAntiséptico tópico \n" +
+				"Destruye o proviene el crecimiento de microorganismos en la piel que pueden causar una infección \n" +
+				"Cuidado personal \n" +
+				"•\tPeróxido de benzoilo, ácido salicílico \n" +
+				"Medicamento de uso tópico que reduce las bacterias que causan el acné y dañan la piel. \n" +
+				"•\tJabón antibacteriano\n" +
+				"Limpia la piel y reduce el riesgo de infección \n" +
+				"Alimentación\n" +
+				"Aunque una determinada dieta no va eliminar el problema, lo más aconsejable es llevar una dieta equilibrada, sin abusar de alimentos grasos, procesados o refinados. \n" +
+				"•\tVitamina A \n" +
+				"Ayuda al alto poder antinflamatorio es un remedio contra las bacterias que causan el acné.\n" +
+				"•\tBeta caroteno, vitamina c y vitamina E \n" +
+				"Mantiene la piel sana por su alto contenido de antioxidantes. \n" +
+				"Especialistas \n" +
+				"•\tPediatra \n" +
+				"Brinda atención médica a los bebés, niños y adolescentes \n" +
+				"•\tMedico de atención primaria\n" +
+				"Previene, diagnostica y trata enfermedades \n" +
+				"•\tDermatólogo \n" +
+				"Es especialista en las enfermedades de la piel, las uñas y el pelo.\n" +
+				"•\tNutriólogo \n" +
+				"Especialista en alimentación y nutrición \n"));
+
+
+
+
+
+
+
+
+
+
 		aniadirEntrada(new Lista_entrada("1", R.drawable.im_colibri, "COLIBRÍ", "Los troquilinos (Trochilinae) son una subfamilia de aves apodiformes de la familia Trochilidae, conocidas vulgarmente como colibr�es, quindes, tucusitos, picaflores, chupamirtos, chuparrosas, huichichiquis (idioma nahuatl), mainumby (idioma guaran�) o guanumby. Conjuntamente con las ermitas, que pertenecen a la subfamilia Phaethornithinae, conforman la familia Trochilidae que, en la sistem�tica de Charles Sibley, se clasifica en un orden propio: Trochiliformes, independiente de los vencejos del orden Apodiformes. La subfamilia Trochilinae incluye m�s de 100 g�neros que comprenden un total de 330 a 340 especies."));
 		aniadirEntrada(new Lista_entrada("2", R.drawable.im_cuervo, "CUERVO", "El cuervo com�n (Corvus corax) es una especie de ave paseriforme de la familia de los c�rvidos (Corvidae). Presente en todo el hemisferio septentrional, es la especie de c�rvido con la mayor superficie de distribuci�n. Con el cuervo de pico grueso, es el mayor de los c�rvidos y probablemente la paseriforme m�s pesada; en su madurez, el cuervo com�n mide entre 52 y 69 cent�metros de longitud y su peso var�a de 0,69 a 1,7 kilogramos. Los cuervos comunes viven generalmente de 10 a 15 a�os pero algunos individuos han vivido 40 a�os. Los juveniles pueden desplazarse en grupos pero las parejas ya formadas permanecen juntas toda su vida, cada pareja defendiendo un territorio. Existen 8 subespecies conocidas que se diferencian muy poco aparentemente, aunque estudios recientes hayan demostrado diferencias gen�ticas significativas entre las poblaciones de distintas regiones."));
 		aniadirEntrada(new Lista_entrada("3", R.drawable.im_flamenco, "FLAMENCO", "Los fenicopteriformes (Phoenicopteriformes), los cuales reciben el nombre vulgar de flamencos, son un orden de aves neognatas, con un �nico g�nero viviente: Phoenicopterus. Son aves que se distribuyen tanto por el hemisferio occidental como por el hemisferio oriental: existen cuatro especies en Am�rica y dos en el Viejo Mundo. Tienen cr�neo desmognato holorrino, con 16 a 20 v�rtebras cervicales y pies anisod�ctilos."));

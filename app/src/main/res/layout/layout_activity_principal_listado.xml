@@ -1,10 +1,15 @@
-<!--
-Vista que contiene 1 panel para pantallas pequeñas.
--->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:showDividers="middle"
+    tools:context="giovanni.itt.drapp.Activity_Principal">
 
-<!--
-Este fragmento estático contiene al listado
--->
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragment_listado"
     android:name="giovanni.itt.drapp.Fragment_Lista"
@@ -13,3 +18,4 @@ Este fragmento estático contiene al listado
     android:layout_marginLeft="16dp"
     android:layout_marginRight="16dp" />
 
+</LinearLayout>
