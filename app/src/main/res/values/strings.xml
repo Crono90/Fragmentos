@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DRAPP</string>
+
+    <string name="titulo_detalle_entrada">Detalle de la entrada</string>
+</resources>
